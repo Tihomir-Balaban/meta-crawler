@@ -12,6 +12,7 @@ internal static class Logger
 
     public static void LogInformation(string message)
         => Log.Information(message);
+
     public static void LogWarning(string message)
         => Log.Warning(message);
 
