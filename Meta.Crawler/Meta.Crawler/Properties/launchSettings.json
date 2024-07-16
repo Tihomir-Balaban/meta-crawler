@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Meta.Crawler": {
+      "commandName": "Project"
+    },
+    "Meta.Crawler list": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    },
+    "Meta.Crawler channel": {
+      "commandName": "Project",
+      "commandLineArgs": "channel 8"
+    },
+    "Meta.Crawler json": {
+      "commandName": "Project",
+      "commandLineArgs": "json 7"
+    }
+  }
+}
