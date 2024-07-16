@@ -10,6 +10,6 @@ A command-line application to crawl and parse data from https://www.telered.com.
 
 ## Usage
 ```sh
-dotnet run list
-dotnet run channel
-dotnet run json
+Meta.Crawler.exe list
+Meta.Crawler.exe channel 8
+Meta.Crawler.exe json 7
